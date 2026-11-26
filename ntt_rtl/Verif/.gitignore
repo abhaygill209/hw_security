@@ -1,0 +1,4 @@
+build/
+vectors.csv
+results.xml
+__pycache__/

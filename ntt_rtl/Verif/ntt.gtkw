@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Nov 26 15:39:37 2026
+[*]
+[dumpfile] "/home/abhay/OpenSource/hw_security/ntt_rtl/Verif/ntt.vcd"
+[dumpfile_mtime] "Thu Nov 26 15:38:38 2026"
+[dumpfile_size] 7251178
+[savefile] "/home/abhay/OpenSource/hw_security/ntt_rtl/Verif/ntt.gtkw"
+[timestart] 0
+[size] 1920 1016
+[pos] -51 -51
+*-14.672748 68100 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ntt_vcd_tb.
+[treeopen] ntt_vcd_tb.dut.
+[treeopen] ntt_vcd_tb.dut.butterfly_gen[0].
+[treeopen] ntt_vcd_tb.dut.butterfly_gen[1].
+[sst_width] 233
+[signals_width] 189
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@22
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.a_i[22:0]
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.b_i[22:0]
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.a_o[22:0]
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.b_o[22:0]
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.w[22:0]
+@28
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.valid_i
+ntt_vcd_tb.dut.butterfly_gen[0].butterfly_inst.valid_out
+@200
+-Stage 2
+@22
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.a_i[22:0]
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.b_i[22:0]
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.a_o[22:0]
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.b_o[22:0]
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.w[22:0]
+@28
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.valid_i
+ntt_vcd_tb.dut.butterfly_gen[1].butterfly_inst.valid_out
+@200
+-Stage 3
+-Stage 4
+-Stage 5
+[pattern_trace] 1
+[pattern_trace] 0

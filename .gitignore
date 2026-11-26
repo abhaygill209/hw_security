@@ -1,0 +1,54 @@
+# Local editor and Python artifacts
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*~
+.ipynb_checkpoints/
+
+# Simulator, synthesis, and compiler output
+build/
+dist/
+obj_dir/
+work/
+out/
+sim_build/
+_build/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.bin
+*.elf
+*.hex
+*.bit
+*.vcd
+*.fst
+*.wlf
+*.log
+*.d
+*.gcda
+*.gcno
+*.gcov
+*.lcov
+core
+core.*
+simv*
+Vtop
+
+# Generated verification results
+results.xml
+vectors.csv
+PQCsignKAT_*.req
+PQCsignKAT_*.rsp
+tvecs[235]
+
+# Tool and account state
+.aws/
+.codex/
+.agents/
+.git.local/
